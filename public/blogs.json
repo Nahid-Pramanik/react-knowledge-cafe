@@ -1,0 +1,53 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co/Ss44PWg/Business-Facebook-Cover-01.jpg",
+      "title": "The Adventure Begins Lorem sit amet consectetur adipisicing elit.",
+      "author": "Alice Smith",
+      "author_img": "https://i.ibb.co/Jsk3grB/portrait-young-man-while-studying-books.jpg",
+      "posted_date": "2024-04-28",
+      "reading_time": 15,
+      "hashtags": ["adventure", "fantasy", "journey"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co/WzMPr9d/13266059-5192952.jpg",
+      "title": "Cooking Secrets Revealed Lorem ipsum dolor adipisicing Saepe vero.",
+      "author": "Bob Johnson",
+      "author_img": "https://i.ibb.co/RcdmThg/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction.jpg",
+      "posted_date": "2024-04-27",
+      "reading_time": 20,
+      "hashtags": ["cooking", "recipes", "food"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co/3yD439C/21502953-6477434.jpg",
+      "title": "Tech Trends 2024 Lorem ipsum dolor sit adipisicing  Saepe.",
+      "author": "Emily Wong",
+      "author_img": "https://i.ibb.co/2gpHNqN/handsome-mature-businessman-looking-confident-smiling.jpg",
+      "posted_date": "2024-04-26",
+      "reading_time": 12,
+      "hashtags": ["technology", "trends", "innovation"]
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co/XzTBMFx/10866487-19168737.jpg",
+      "title": "Fitness Fundamentals Lorem consectetur elit Saepe vero.",
+      "author": "Jake Miller",
+      "author_img": "https://i.ibb.co/3FdSvkQ/blonde-young-businesswoman-writing-diary-with-pen-office.jpg",
+      "posted_date": "2024-04-25",
+      "reading_time": 18,
+      "hashtags": ["fitness", "exercise", "health"]
+    },
+    {
+      "id": "5",
+      "cover": "https://i.ibb.co/Ss44PWg/Business-Facebook-Cover-01.jpg",
+      "title": "Travel Diaries: Europe Lorem ipsum dolor sit amet elit Edition",
+      "author": "Sarah Davis",
+      "author_img": "https://i.ibb.co/b2rYb8h/portrait-mature-smiling-authoress-sitting-desk.jpg",
+      "posted_date": "2024-04-24",
+      "reading_time": 25,
+      "hashtags": ["travel", "europe", "adventure"]
+    }
+  ]
+  
